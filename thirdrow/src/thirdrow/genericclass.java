@@ -7,6 +7,10 @@ public class genericclass {
 		System.out.println("This Line is from Zech");
 		System.out.println("This is Reid's Line");
 		System.out.println("This line is from Mario!");
+		
+		
+		
+		
 	}
 
 }
